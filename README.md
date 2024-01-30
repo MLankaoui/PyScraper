@@ -10,7 +10,7 @@ These instructions will help you get a copy of the project up and running on you
 
 Make sure you have Python installed on your machine. If not, you can download it from [python.org](https://www.python.org/).
 
-### Installation
+### How To Use
 
 1. Clone the repository:
 
