@@ -30,5 +30,3 @@ Make sure you have Python installed on your machine. If not, you can download it
 5. run main.py
    ```bash
    python main.py
-   
-   
