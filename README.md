@@ -15,7 +15,7 @@ Make sure you have Python installed on your machine. If not, you can download it
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/your-repo.git
+   git clone https://github.com/MLankaoui/pyScraper.git
 2. Navigate to the project
    ```bash
    cd pyScraper
