@@ -22,7 +22,6 @@ Make sure you have Python installed on your machine. If not, you can download it
 3. Install Beautifull soup and an html parser (lxml) for example
    ```bash
    pip install beautifulsoup4
-   ```bash
    pip install lxml
 
 4. Navigate to src
